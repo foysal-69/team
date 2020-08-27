@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.team{
+    background-color: black;
+    width: 30%;
+    float: left;
+    margin: 0 25px;
+    
+
+
+
+}
+.team img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}
+.team h2{
+    text-align: center;
+    color: white;
+    font-family: Bradley Hand ITC;
+    font-size: 30px;
+}
+.team h3{
+    text-align: center;
+    color:green;
+    font-family:'Courier New', Courier, monospace;
+}
+.team p{
+    text-align: center;
+    color:yellow;
+    font-family:Arial Narrow;
+    margin: auto;
+    display: block;
+}
+
+
